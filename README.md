@@ -23,7 +23,7 @@ Ce projet explore la manipulation et l'analyse de grandes quantités de données
 ## Technologies Utilisées
 - **Pandas / PySpark** pour le traitement des données
 - **Matplotlib / Seaborn** pour la visualisation
-- **Machine Learning** (si applicable) pour l’analyse prédictive
+- **Machine Learning** pour l’analyse prédictive (si applicable)
 
 ## Résultats Attendus
 - **Tableaux de synthèse** des données traitées
