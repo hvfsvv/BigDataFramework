@@ -10,12 +10,7 @@ Ce projet explore la manipulation et l'analyse de grandes quantités de données
    cd big-data-framework
    ```
 
-2. **Installer les bibliothèques nécessaires :**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Lancer le notebook :**
+2. **Lancer le notebook :**
    ```bash
    jupyter notebook final_project_big_data_framework_1.ipynb
    ```
